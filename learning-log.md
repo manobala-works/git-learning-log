@@ -14,3 +14,8 @@ I'm Learning Git and version control to track my work
 - git init --> Intialize repository .means we are telling git to initialize version control on this folder
 - git add  --> i m telling git that i have made changes to the file so move them to staging area so that i can commit next 
 - git commit --> save those staged changes as a version in git history.
+
+## What i learned today (1-november)
+- how to create branch and switch between branches
+-(git checkout -b add-resources) single command to create branch and switch to it
+- git branch --> tells us which branch we are in
